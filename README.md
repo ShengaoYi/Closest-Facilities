@@ -6,6 +6,9 @@ This tutorial provides step-by-step instructions on how to create a road network
 - ArcGIS Pro installed on your computer
 - RoadNetwork.shp file containing road network data and your facilities.shp files
 
+## Output
+- For every origin, find the closest destination on the road network, including a complete route.shp which contains the information of fields, distance and so on.
+
 ## Step 1: Create a File Geodatabase and Import Road Network Data
 1. Launch ArcGIS Pro and open a new project.
 2. Right-click on the Catalog pane and select "New File Geodatabase."
