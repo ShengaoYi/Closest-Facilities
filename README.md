@@ -28,3 +28,13 @@ This tutorial provides step-by-step instructions on how to create a road network
 ## Step 2: Create Facilities Geodatabase
 1. Right-click on the Catalog pane and select "New File Geodatabase."
 2. Provide a name for the geodatabase, e.g., io.gdb, and click "Save."
+
+    ![io](images/io.png)
+    
+## Step 3: Set Python Environment
+1. Open the Python Command Prompt within ArcGIS Pro or any Python IDE.
+2. Set the Python environment to the ArcGIS Pro interpreter, following is mine address:
+
+     ![Py_Env](images/Py_Env.png)
+     
+## Step 4: Run FindNearestFacilities.py
