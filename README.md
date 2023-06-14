@@ -15,11 +15,11 @@ This tutorial provides step-by-step instructions on how to create a road network
 6. Right-click on the feature dataset and select "Import > Feature Class (single)." 
 7. Browse to locate the RoadNetwork.shp file and import it into the feature dataset.
 
-![Geodatabase](images/Geodatabase.png)
+    ![Geodatabase](images/Geodatabase.png)
 
 8. Right-click on the Road, New Network Dataset.
 
-![Network Dataset](images/Network_Dataset.png)      ![Road Network](images/Road_Network.png) 
+    ![Network Dataset](images/Network_Dataset.png)      ![Road Network](images/Road_Network.png) 
 
 
 ## Step 2: Create Facilities Geodatabase
