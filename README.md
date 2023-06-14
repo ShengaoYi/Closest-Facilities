@@ -1,6 +1,7 @@
 # Closest-Facilities
 
-This tutorial provides step-by-step instructions on how to create a road network dataset using ArcGIS Pro and perform network analysis using the Closest Facility tool in the ArcPy module. The tutorial assumes you have basic knowledge of ArcGIS Pro and Python scripting.
+This tutorial provides step-by-step instructions on how to create a road network dataset using ArcGIS Pro and perform network analysis using the Closest Facility tool in the ArcPy module. The tutorial assumes you have basic knowledge of ArcGIS Pro and Python scripting. Main Reference: 
+https://pro.arcgis.com/en/pro-app/latest/arcpy/network-analyst/closestfacility.htm
 
 ## Prerequisites
 - ArcGIS Pro installed on your computer
@@ -42,6 +43,3 @@ This tutorial provides step-by-step instructions on how to create a road network
      
 ## Step 4: Run FindNearestFacilities.py
 
-## Main Reference
-
-https://pro.arcgis.com/en/pro-app/latest/arcpy/network-analyst/closestfacility.htm
