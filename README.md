@@ -14,3 +14,4 @@ This tutorial provides step-by-step instructions on how to create a road network
 5. Specify a name for the feature dataset, e.g., Road, and choose the appropriate coordinate system, such as GCS_WGS_1984.
 6. Right-click on the feature dataset and select "Import > Feature Class (single)." 
 7. Browse to locate the RoadNetwork.shp file and import it into the feature dataset.
+![Geodatabase](images/Geodatabase.png)
