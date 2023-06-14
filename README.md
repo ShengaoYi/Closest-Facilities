@@ -20,7 +20,10 @@ This tutorial provides step-by-step instructions on how to create a road network
 8. Right-click on the Road, New Network Dataset.
 
     ![Network Dataset](images/Network_Dataset.png)      ![Road Network](images/Road_Network.png) 
+    
+9. Right-click Beijing_road, choose Properties to add Travel Mode. ** Important **
 
+    ![Properties](images/Properties.png) ![Travel Mode](images/Travel_Mode.png) 
 
 ## Step 2: Create Facilities Geodatabase
 1. Right-click on the Catalog pane and select "New File Geodatabase."
