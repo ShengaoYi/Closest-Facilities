@@ -25,7 +25,7 @@ https://pro.arcgis.com/en/pro-app/latest/arcpy/network-analyst/closestfacility.h
 
     ![Network Dataset](images/Network_Dataset.png)      ![Road Network](images/Road_Network.png) 
     
-9. Right-click Beijing_road, choose Properties to add Travel Mode. **Important**
+9. Right-click Beijing_road, choose Properties to add **Travel Mode**. **Important**
 
     ![Properties](images/Properties.png) ![Travel Mode](images/Travel_Mode.png) 
 
