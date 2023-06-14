@@ -19,9 +19,7 @@ This tutorial provides step-by-step instructions on how to create a road network
 
 8. Right-click on the Road, New Network Dataset.
 
-![Network Dataset](images/Network_Dataset.png)
-  
-![Road Network](images/Road_Network.png) 
+![Network Dataset](images/Network_Dataset.png)      ![Road Network](images/Road_Network.png) 
 
 
 ## Step 2: Create Facilities Geodatabase
